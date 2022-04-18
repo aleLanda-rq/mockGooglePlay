@@ -1,0 +1,53 @@
+{
+"movies" :[
+ {
+     "id": 1,
+     "image":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFnili_hd3zuxHrmcBvKjWeVnSDs4FVInftKvJ5IUD4VhqCTUs",
+     "title":"Umma",
+     "genre":"Horror",
+     "price":19.99
+ },
+ {
+    "id": 2,
+    "image": "https://m.media-amazon.com/images/M/MV5BYWQ0NWUyMjktYjg4Yy00NmY3LTg2YzEtNWY5OTY5YTc2MjhjXkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_FMjpg_UX1000_.jpg",
+    "title":"The Outfit(2022)",
+    "genre":"Thriller",
+    "price":19.99
+ },
+ {
+    "id": 3,
+    "image": "https://m.media-amazon.com/images/M/MV5BZDVlOWUwNjYtNDkzMi00YjE1LWIxMTgtMDgxNTNjOTI0MWY4XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg",
+    "title":"The Contractor",
+    "genre":"Action & Adventure",
+    "price":19.99
+ },
+ {
+    "id": 4,
+    "image":"https://m.media-amazon.com/images/M/MV5BNjI4ZTQ1OTYtNTI0Yi00M2EyLThiNjMtMzk1MmZlOWMyMDQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+    "title":"Death Of The Nile",
+    "genre":"Drama",
+    "price":3.99
+ },
+ {
+ "id": 5,
+ "image": "https://m.media-amazon.com/images/M/MV5BZjk0OWZiN2ItNmQ2YS00NTJmLTg0MjItNzM4NzBkMWM1ZTRlXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+     "title":"Moonfall",
+     "genre":"Action & Adventure",
+     "price":19.99
+ },
+ {
+    "id": 6,
+    "image": "https://m.media-amazon.com/images/M/MV5BZTU5MmY0ZjctYTNlOS00MDIyLWJkZTAtNzBiOTkyNWI5MGY2XkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_.jpg",
+    "title":"Infinite",
+    "genre":"Action & Adventure",
+    "price":2.99
+ },
+ {
+    "id": 7,
+    "image":"https://m.media-amazon.com/images/M/MV5BZmI2ZjUxYTAtOTIwNS00OTdiLTg2N2ItMjU0YzY3NmRhYjIxXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+    "title":"Alice",
+    "genre":"Drama",
+    "price":6.99
+ }
+]
+}
