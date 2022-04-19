@@ -5,7 +5,8 @@
      "image":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFnili_hd3zuxHrmcBvKjWeVnSDs4FVInftKvJ5IUD4VhqCTUs",
      "title":"Umma",
      "genre":"Horror",
-     "price":19.99
+     "price":19.99,
+     "rating":"★★★★★"
  },
  {
     "id": 2,
@@ -48,6 +49,106 @@
     "title":"Alice",
     "genre":"Drama",
     "price":6.99
- }
+ },
+{
+   "audiobooks":[
+       {
+      "id":11,
+      "title":"Idiots:marriage, money, milk, and mistakes",
+      "author":"Laura Clery",
+      "price":14.95
+       },
+       {
+          "id": 12,
+          "title":"Lover Arisen",
+          "author":"J.R. Ward",
+          "price":14.95
+       },
+       {
+          "id": 13,
+          "title":"The Viscount Who Loved Me",
+          "author":"Julia Quinn",
+          "price":14.95
+       },
+       {
+          "id": 14,
+          "title":"The Duke and I",
+          "author":"Julia Quinn",
+          "price":14.95
+       },
+  {
+      "id": 15,
+      "title":"An Offer From a Gentleman",
+      "author":"Julia Quinn",
+      "price":14.95
+  },
+  {
+      "id": 16,
+      "title":"Atomic Habits",
+      "author":"James Clear",
+      "price": 14.95
+  },
+  {
+      "id": 17,
+      "title":"Romancing Mr.Bridegerton",
+      "author":"Julia Quinn",
+      "price":14.95
+  }
+  
+  
+   ]
+  },
+  {
+      "top-sellers" :[
+  {
+      "id": 18,
+      "title":"Chainsaw Man: A Dog's feelings",
+      "volume":"Vol 10",
+      "price":6.99
+  },
+  {
+      "id": 19,
+      "title":"Spy x Family",
+      "volume":"Vol 7",
+      "price":6.99
+  },
+  {
+      "id": 20,
+      "title":"Spy x Family",
+      "volume":"Vol 7",
+      "price":6.99
+  },
+  {
+      "id": 21,
+      "title":"The Viscount Who Loved Me: Bridgerton",
+      "volume":"Book 2",
+      "price":7.99
+  },
+  {
+      "id": 22,
+      "title":"Romancing Mr.Bridgerton: Bridgerton",
+      "volume":"Book 4",
+      "price":7.99
+  },
+  {
+      "id": 23,
+      "title":"An Offer From A Gentleman",
+      "volume":"Book 3",
+      "price":7.99
+  },
+  {
+      "id": 24,
+      "title":"Bridgerton: The Duke and I",
+      "volume":"Book 1",
+      "price":7.99
+  },
+  {
+      "id": 25,
+      "title":"Dune: Volume 1",
+      "volume":"Book 1",
+      "price":9.99
+  }
+      ]
+  }
 ]
 }
