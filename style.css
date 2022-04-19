@@ -65,6 +65,7 @@ font-size: 16px;
     top:21px;
     width: 100%;
     padding: 20px 10px 10px 10px;
+    right: 10px;
 
 }
 .questionMark{
@@ -126,9 +127,9 @@ font-size: 16px;
 
 } */
 
-#movieHeader{
+#movieHeader, #audioHeader,#topHeader, #newHeader{
     position: relative;
-    bottom: 170px;
+    top: 20px;
     left: 250px;
     font-size: 28px;
     font-weight: 600;
@@ -137,7 +138,7 @@ font-size: 16px;
 }
 #movieSubtitle{
     position: relative;
-    bottom: 190px;
+    top:22px;
     left: 250px;
     font-weight: 200;
 }
@@ -155,16 +156,11 @@ font-size: 16px;
    font-weight: 900;
    display: flex;
 }
-/* .audiobooks{
-    text-align: center;
-}
-.top-seller{
-    text-align: center;
-} */
-#movies_first_row{
+
+#umma{
     position: relative;
     height: 200px;
     width: 130px;
-    top: 150px;
-    left: 250px;
+    top: 10px;
+    left: -490px;
 }
